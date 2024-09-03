@@ -1,0 +1,3 @@
+enum ClientType {
+    STANDARD, VIP
+}

@@ -1,0 +1,3 @@
+interface HumanResources {
+    boolean needMedicalInsurance();
+}
